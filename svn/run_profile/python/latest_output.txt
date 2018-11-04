@@ -1,0 +1,74 @@
+*******************************************************************************
+************        Badgerloop: Pod III Run Profile      **********************
+*******************************************************************************
+Command-line Arguments:
+
+**********************          Constants            **************************
+
+elec:	
+	battery:	
+		parallel:	1
+		cell_int_res:	10
+		series:	93
+
+	motor:	
+		spec_heat:	0.896
+		wheel_diam:	6
+		efficiency:	90
+		rpm:	6000
+		torque_rat:	0.475
+		current:	200
+		torque:	100
+		voltage:	240
+
+	mass:	
+		controller:	8
+		battery:	20
+		motor:	7
+
+
+tube:	
+	length:	1250
+	pressure:	70
+
+mech:	
+	propulsion:	
+		pressure1:	4000
+		pressure2:	4000
+
+	braking:	
+		pressure1:	120
+		pressure2:	120
+
+	mass:	
+		propulsion:	15
+		stability:	15
+		braking:	20
+		structure:	30
+
+
+
+*******************************************************************************
+
+
+**************************        Parameters         **************************
+
+elec:	
+
+mech:	
+
+
+*******************************************************************************
+
+
+Pod mass:	115.00 kg
+Motor Power:	62.80 kW
+Motor Force:	623.36 N
+Max Velocity:	100.80 m/s
+Max Accel:	5.42 m/s^2
+Max Vel. X:	937.16 m
+Braking Accel:	16.24 m/s^2
+Braking Force:	1867.33 N
+Time to Max V:	18.60 s
+*******************************************************************************
+*******************************************************************************

@@ -1,0 +1,14 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=LV Power Supply.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=LV Power Supply.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=BMS.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=BMS.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=Braking.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=Braking.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=Communication.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=Communication.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=7|Source=ControlPanel.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=ControlPanel.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=Navigation.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=Navigation.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=MotorController.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=MotorController.PrjPCB

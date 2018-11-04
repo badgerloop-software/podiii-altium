@@ -1,0 +1,40 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,18.0.11 (651)*%
+G04 Layer_Color=0*
+%FSLAX26Y26*%
+%MOIN*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,OtherDrill,Pad Free-6 (8484.961mil,2446.85mil)*%
+%ADD50C,0.167323*%
+%TA.AperFunction,OtherDrill,Pad Free-6 (6250.709mil,2446.85mil)*%
+%ADD51C,0.167323*%
+%TA.AperFunction,OtherDrill,Pad Free-6 (3366.85mil,2446.85mil)*%
+%ADD52C,0.167323*%
+%TA.AperFunction,OtherDrill,Pad Free-6 (8484.961mil,4368.662mil)*%
+%ADD53C,0.167323*%
+%TA.AperFunction,OtherDrill,Pad Free-6 (6250.709mil,4415.354mil)*%
+%ADD54C,0.167323*%
+%TA.AperFunction,OtherDrill,Pad Free-6 (3366.85mil,4415.354mil)*%
+%ADD55C,0.167323*%
+D50*
+X8484961Y2446850D02*
+D03*
+D51*
+X6250709D02*
+D03*
+D52*
+X3366850D02*
+D03*
+D53*
+X8484961Y4368662D02*
+D03*
+D54*
+X6250709Y4415354D02*
+D03*
+D55*
+X3366850D02*
+D03*
+%TF.MD5,83caf2c1eabfb7217ccc74163c1b6021*%
+M02*
